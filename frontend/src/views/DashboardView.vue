@@ -42,14 +42,7 @@ function handleLogout() {
         </div>
 
         <div class="next-steps">
-          <h3>Próximos pasos</h3>
-          <p>El módulo de autenticación está completo. Las siguientes funcionalidades se implementarán en fases posteriores:</p>
-          <ul>
-            <li>Gestión de saldo</li>
-            <li>Transferencias entre usuarios</li>
-            <li>Historial de transacciones</li>
-            <li>Límites de gasto</li>
-          </ul>
+          
         </div>
       </div>
     </main>
